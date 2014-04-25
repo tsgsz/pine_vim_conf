@@ -1,0 +1,5 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_1='/Users/Pine/Workspace/games/cocos2d-x-3.0alpha1/projects/run/Classes/entities'
+let g:netrw_dirhist_2='/Users/Pine/Workspace/klnd/common/base'
+let g:netrw_dirhist_3='/Users/Pine/Workspace/games/cocos2d-x-3.0rc2/tests/cpp-tests/Classes/TransitionsTest'
