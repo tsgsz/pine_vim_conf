@@ -153,11 +153,5 @@ endif
 
 "自动识别语言
 augroup filetype
-    autocmd! BufRead,BufNewFile .bladerc,BUILD,BLADE_ROOT,blade.conf setfiletype blade
-augroup end
-augroup filetype
     autocmd! BufRead,BufNewFile *.proto setfiletype proto
-augroup end
-augroup filetype
-    autocmd! BufRead,BufNewFile BUILD set filetype=blade
 augroup end
